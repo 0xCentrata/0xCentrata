@@ -1,4 +1,4 @@
-### Hi there, I'm Ilya 👋
+### Hi there, I'm Il'ya 👋
 
 - 🌱 I’m currently learning frontend development
 - 📫 How to reach me: 0xcentrata@mail.ru
